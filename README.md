@@ -1,4 +1,4 @@
-Download 800Craft:
+Download BlueCraft:
 BlueCraft is not ready for the public yet, but you are still able to download the source and modify it to your liking.
 
 About BlueCraft:
